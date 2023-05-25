@@ -5,7 +5,10 @@
 $ git clone https://github.com/TKadyear/skills-communicate-using-markdown.git
 $ cd skills-communicate-using-markdown
 ```
-### Header 3
+### List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 #### Header 4
 
